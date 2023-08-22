@@ -1,1 +1,3 @@
-# roboticsportfolio
+# Ben's Robotics Portfolio
+
+Description of the bot
